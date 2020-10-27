@@ -1,0 +1,5 @@
+{
+  "filename": "patterns6.txt",
+  "epochs": 100,
+  "learning_rate": 0.0001
+}
